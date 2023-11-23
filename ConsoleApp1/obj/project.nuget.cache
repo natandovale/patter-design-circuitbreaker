@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "R9dsEsR2+NEoY66qqO9Fn19SATMD/F+DIbCNhdm1wiu6dgC+SfVERkjTROQoWrRTTjgoOk81DmfD6/C3lynPEg==",
+  "success": true,
+  "projectFilePath": "C:\\Repositorio\\Projetos\\Cloud  Design Patterns\\Examples\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\natanael.oliveira\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\natanael.oliveira\\.nuget\\packages\\patter.design.circuitbreaker\\1.0.0\\patter.design.circuitbreaker.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
